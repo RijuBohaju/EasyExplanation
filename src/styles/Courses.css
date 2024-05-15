@@ -1,0 +1,38 @@
+
+.course{
+    display: grid;
+    background-color: #CBDDEA;
+    /* align-items: center;
+    justify-content: center; */
+}
+/* .course-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* justify-content: center;
+    align-items: center; */
+}
+.course button{
+    background-color: blue;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 50px;
+    width: 180px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+
+}
+.course button:hover{
+    background-color: rgb(0, 0, 182);
+}
+
+.card {
+  padding: 10px;
+}

@@ -1,3 +1,9 @@
+
+img{
+    width: 50px;
+    height: auto;
+    margin-top: 10px;
+}
 .navigation-menu{
     list-style:none;
     display: flex;
